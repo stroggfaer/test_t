@@ -1,5 +1,5 @@
 # hello word
-#TEST++
+#TEST
 
 ## Getting started
 
