@@ -1,5 +1,4 @@
 # hello word
-#TEST
 
 ## Getting started
 
