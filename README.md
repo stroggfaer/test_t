@@ -1,5 +1,4 @@
 # hello word++
-+++++
 
 
 ## Getting started
